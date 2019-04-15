@@ -1,4 +1,5 @@
 // Modified from the textbook example by Gregory M. Kapfhammer
+// Please add all of the required source code at the TODO markers
 //
 // Please refer to the following GitHub repository for country flags:
 // https://github.com/hjnilsson/country-flags
